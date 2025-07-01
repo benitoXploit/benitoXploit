@@ -9,13 +9,13 @@ I'm using platforms like TryHackMe to learn by doing, and slowly building a port
 
 ### 🔧 What I’m Working On
 - Documenting what I learn from TryHackMe
-- Writing a basic port scanner in Python (to understand how scanning works)
+- Writing a basic port scanner in Python 
 - Hardening a Linux machine as a practice challenge
 
 ---
 
 ### 📜 Certifications & Learning
-- Google Cybersecurity Certificate (in progress)
+- Google Cybersecurity Certificate
 - Earning TryHackMe badges along the way
 
 ---
