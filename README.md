@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hey, I'm Benito
 
-<!--
-**benitoXploit/benitoXploit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a soon-to-be Cybersecurity student at Deakin University.  
+Right now, I'm spending my gap months getting hands-on with ethical hacking, Linux, networking, and cybersecurity tools.
 
-Here are some ideas to get you started:
+I'm using platforms like TryHackMe to learn by doing, and slowly building a portfolio of small but meaningful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 What I’m Working On
+- Documenting what I learn from TryHackMe
+- Writing a basic port scanner in Python (to understand how scanning works)
+- Hardening a Linux machine as a practice challenge
+
+---
+
+### 📜 Certifications & Learning
+- Google Cybersecurity Certificate (in progress)
+- Earning TryHackMe badges along the way
+
+---
+
+### ⚙️ Tools I’m Learning
+Linux CLI • Nmap • Wireshark • Python • Burp Suite
+
+---
+
+### 📬 Let’s Connect
+- [LinkedIn](#) *(I’ll update this soon!)*  
+- [TryHackMe](https://tryhackme.com)
+
+---
+
+Thanks for stopping by!
